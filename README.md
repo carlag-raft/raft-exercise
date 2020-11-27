@@ -1,5 +1,7 @@
 # raft-exercise
-## Revamp legacy system into a new web based application Kick off Agenda
+## Kick off Agenda
+
+**Goal: Revamp legacy system into a new web based application**
 
 MEETINGS AGENDA
 
