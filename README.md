@@ -51,8 +51,8 @@ Developers select structure
 Outputs  
 Improved communications, identified impediments, plan adjustment
 
-**Sprint Review**
-Time: 2 hours  
+**Sprint Review**  
+Time: 2 hours    
 Required Attendees: Product Manager, Product Owner, stakeholders, and Development Team  
 Goal: Inspect the outcome of the Sprint 0 and determine future adaptations
 
