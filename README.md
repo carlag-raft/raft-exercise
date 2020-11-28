@@ -1,15 +1,24 @@
 # raft-exercise
 ## Kick off Agenda
 
-**Goal: Revamp legacy system into a new web based application**
+**Objective: Revamp legacy system into a new web based application**
 
 MEETINGS AGENDA
 
 Day 1  
 Time: 1 hour   
 Event: Product Backlog Refinement  
+Required Attendees: Product Manager, Product Owner, and Development Team  
 Goal: Goal: Layout initially know and best-understood requirements  
-Add detail, estimates and order to items in Product Backlog  
+
+Meeting Structure   
+a. Review and revise Product Backlog items    
+b. Add detail to Product Backlog items  
+c. Estimate Product Backlog items  
+d. Order to items in Product Backlog    
+
+Output  
+Ready Product Backlog Items  
 
 Day 2  
 Time: 2 hours  
