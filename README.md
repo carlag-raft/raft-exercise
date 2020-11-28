@@ -15,7 +15,7 @@ Meeting Structure
 a. Review and revise Product Backlog items    
 b. Add detail to Product Backlog items  
 c. Estimate Product Backlog items  
-d. Order to items in Product Backlog    
+d. Order items in Product Backlog    
 
 Output  
 Ready Product Backlog Items  
@@ -33,9 +33,9 @@ c. How will the chosen work get done in Sprint 0?
 
 Meeting Structure   
 a. Product Owner proposes how product can increase its value in Sprint 0.  
-b. Developers and Product Owner discuss Product Backlog Items and the Developers select items from the Product Backlog to include in the current Sprint 0.
-c. Decompose Product Backlog items    
-d. Team collaborates to define Sprint 0 goal  
+b. Developers and Product Owner discuss Product Backlog Items and the Developers select items from the Product Backlog to include in the current Sprint 0.  
+c. Decompose Product Backlog items  
+d. Team collaborates to define Sprint 0 goal    
 
 Output
 Sprint 0 Backlog
