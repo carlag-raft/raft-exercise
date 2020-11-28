@@ -8,7 +8,7 @@ MEETINGS AGENDA
 SPRINT CERMONIES  
 
 **Product Backlog Refinement**  
-Time: 1 hour  
+Time: 2 hours  
 Required Attendees: Product Manager, Product Owner, and Development Team  
 Goal: Layout initially know and best-understood requirements  
 
@@ -41,7 +41,7 @@ Outputs
 Sprint 0 Goal and Sprint 0 Backlog
 
 **Daily Scrum**  
-15 minutes  
+Time: 15 minutes  
 Required Attendees: Development Team    
 Goal: Inspect progress toward the Sprint 0 Goal and adapt the Sprint 0 Backlog as necessary
 
@@ -51,4 +51,6 @@ Developers select structure
 Outputs  
 Improved communications, identified impediments, plan adjustment
 
-
+**Sprint Review**
+Time: 2 hours  
+Required Attendees: Product Manager, Product Owner, stakeholders, and Development Team  
