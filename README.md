@@ -5,10 +5,12 @@
 
 MEETINGS AGENDA
 
+SPRINT CERMONIES  
+
 **Product Backlog Refinement**  
 Time: 1 hour  
 Required Attendees: Product Manager, Product Owner, and Development Team  
-Goal: Goal: Layout initially know and best-understood requirements  
+Goal: Layout initially know and best-understood requirements  
 
 Meeting Structure   
 a. Review and revise Product Backlog items    
