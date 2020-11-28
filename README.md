@@ -18,7 +18,7 @@ c. Estimate Product Backlog items
 d. Order items in Product Backlog    
 
 Output  
-Ready Product Backlog Items  
+Definition of Ready, Ready Product Backlog Items  
 
 Day 2  
 Time: 2 hours  
