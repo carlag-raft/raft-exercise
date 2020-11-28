@@ -35,7 +35,7 @@ Meeting Structure
 a. Product Owner proposes how product can increase its value in Sprint 0   
 b. Developers and Product Owner discuss Product Backlog Items  
 c. Developers select items from the Product Backlog to include in the current Sprint 0    
-d. Decompose Product Backlog items  (create User Stories and tasks)  
+d. Decompose Product Backlog items  (create prioritized user stories and tasks)  
 e. Team collaborates to define Sprint 0 goal      
 
 Output(s)    
