@@ -26,11 +26,12 @@ Sprint Event: Sprint Planning
 Required Attendees: Product Manager, Product Owner, and Development Team  
 Goal: Start Sprint 0 by laying out the work to be performed for Sprint 0  
 
+Questions  
 a. Why is Sprint 0 valuable?  
 b. What can be done in Sprint 0?  
 c. How will the chosen work get done in Sprint 0?  
 
-Meeting Structure 
+Meeting Structure   
 a. Product Owner proposes how product can increase its value in Sprint 0.  
 b. Select Product Backlog items, decompose Product Backlog items  
 c. Team collaborates to define Sprint 0 goal  
