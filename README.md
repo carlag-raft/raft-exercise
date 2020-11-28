@@ -73,9 +73,9 @@ Goal: Plan ways to increase quality and effectiveness
 
 Meeting Structure    
 a. Team inspects how Sprint 0 went with regards to individuals, interactions, processes, tools, and their Definition of Done  
-b. Team discusses what went well during Sprint 0, what problems it encountered, and how those problems were (or were not) solved
+b. Team discusses what went well during Sprint 0, what problems it encountered, and how those problems were (or were not) solved  
 c. Team identifies the most helpful changes to improve its effectiveness
 d.
 
 Output(s)  
-Imporvements in next Sprint Backlog
+Improvements added that will be added in next Sprint Backlog
