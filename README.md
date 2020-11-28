@@ -63,4 +63,11 @@ c. Collaborate on what to do next
 d. Adjust Product Backlog based on feedback  
 
 Outputs  
-Revised Product Backlog that defines the probable Product Backlog items for the next Sprint
+Revised Product Backlog that defines the probable Product Backlog items for the next Sprint  
+
+**Sprint Retrospective**  
+Time: 30 minutes  
+Required Attendees: Product Manager and Development Team    
+Goal: Plan ways to increase quality and effectiveness  
+
+Meeting Structure  
