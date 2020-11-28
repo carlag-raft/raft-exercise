@@ -21,9 +21,10 @@ a. Why is Sprint 0 valuable?
 b. What can be done in Sprint 0?  
 c. How will the chosen work get done in Sprint 0?  
 
-Structure
-Product Owner proposes how product can increase its value in Sprint 0.
-Select Product Backlog items, decompose Product Backlog items
-Team collaborates to define Sprint 0 goal
+Meeting Structure 
+a. Product Owner proposes how product can increase its value in Sprint 0.  
+b. Select Product Backlog items, decompose Product Backlog items  
+c. Team collaborates to define Sprint 0 goal  
 
-output: Sprint 0 Backlog
+Output
+Sprint 0 Backlog
