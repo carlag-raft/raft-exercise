@@ -5,7 +5,7 @@
 
 MEETINGS AGENDA
 
-Event: Product Backlog Refinement  
+**Product Backlog Refinement** 
 Time: 1 hour  
 Required Attendees: Product Manager, Product Owner, and Development Team  
 Goal: Goal: Layout initially know and best-understood requirements  
@@ -19,7 +19,7 @@ d. Order items in Product Backlog
 Output  
 Definition of Ready, Ready Product Backlog Items  
 
-Sprint Event: Sprint Planning  
+**Sprint Planning**   
 Time: 2 hours  
 Required Attendees: Product Manager, Product Owner, and Development Team  
 Goal: Start Sprint 0 by laying out the work to be performed for Sprint 0  
@@ -38,7 +38,7 @@ d. Team collaborates to define Sprint 0 goal
 Outputs    
 Sprint 0 Goal and Sprint 0 Backlog
 
-Sprint Event: Daily Scrum
+**Daily Scrum**
 15 minutes  
 Required Attendees: Development Team    
 Goal: 
