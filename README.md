@@ -18,7 +18,7 @@ b. Add detail to Product Backlog items
 c. Estimate Product Backlog items  
 d. Order items in Product Backlog    
 
-Output  
+Output(s)    
 Definition of Ready, Ready Product Backlog Items  
 
 **Sprint Planning**    
@@ -37,7 +37,7 @@ b. Developers and Product Owner discuss Product Backlog Items and the Developers
 c. Decompose Product Backlog items  
 d. Team collaborates to define Sprint 0 goal    
 
-Outputs    
+Output(s)    
 Sprint 0 Goal and Sprint 0 Backlog
 
 **Daily Scrum**  
@@ -48,7 +48,7 @@ Goal: Inspect progress toward the Sprint 0 Goal and adapt the Sprint 0 Backlog a
 Meeting Structure   
 Developers select structure
 
-Outputs  
+Output(s)    
 Improved communications, identified impediments, plan adjustment
 
 **Sprint Review**  
@@ -62,7 +62,7 @@ b. Team and stakeholders review what was accomplished in the Sprint 0
 c. Collaborate on what to do next  
 d. Adjust Product Backlog based on feedback  
 
-Outputs  
+Output(s)    
 Revised Product Backlog that defines the probable Product Backlog items for the next Sprint  
 
 **Sprint Retrospective**  
@@ -70,4 +70,8 @@ Time: 30 minutes
 Required Attendees: Product Manager and Development Team    
 Goal: Plan ways to increase quality and effectiveness  
 
-Meeting Structure  
+Meeting Structure    
+a.
+b.
+c.
+d.
