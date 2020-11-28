@@ -62,4 +62,5 @@ b. Team and stakeholders review what was accomplished in the Sprint 0
 c. Collaborate on what to do next  
 d. Adjust Product Backlog based on feedback  
 
-Outputs 
+Outputs  
+Revised Product Backlog that defines the probable Product Backlog items for the next Sprint
