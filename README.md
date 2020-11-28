@@ -32,10 +32,11 @@ b. What can be done in Sprint 0?
 c. How will the chosen work get done in Sprint 0?  
 
 Meeting Structure   
-a. Product Owner proposes how product can increase its value in Sprint 0.  
-b. Developers and Product Owner discuss Product Backlog Items and the Developers select items from the Product Backlog to include in the current Sprint 0.  
-c. Decompose Product Backlog items  
-d. Team collaborates to define Sprint 0 goal    
+a. Product Owner proposes how product can increase its value in Sprint 0   
+b. Developers and Product Owner discuss Product Backlog Items  
+c. Developers select items from the Product Backlog to include in the current Sprint 0    
+d. Decompose Product Backlog items  (create User Stories and tasks)  
+e. Team collaborates to define Sprint 0 goal      
 
 Output(s)    
 Sprint 0 Goal and Sprint 0 Backlog
@@ -71,7 +72,10 @@ Required Attendees: Product Manager and Development Team
 Goal: Plan ways to increase quality and effectiveness  
 
 Meeting Structure    
-a.
-b.
-c.
+a. Team inspects how Sprint 0 went with regards to individuals, interactions, processes, tools, and their Definition of Done  
+b. Team discusses what went well during Sprint 0, what problems it encountered, and how those problems were (or were not) solved
+c. Team identifies the most helpful changes to improve its effectiveness
 d.
+
+Output(s)  
+Imporvements in next Sprint Backlog
