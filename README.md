@@ -43,5 +43,9 @@ Sprint 0 Goal and Sprint 0 Backlog
 **Daily Scrum**  
 15 minutes  
 Required Attendees: Development Team    
-Goal: 
+Goal: Inspect progress toward the Sprint 0 Goal and adapt the Sprint 0 Backlog as necessary
+
+Outputs  
+Improved communications, identified impediments, plan adjustment
+
 
