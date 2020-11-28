@@ -54,3 +54,12 @@ Improved communications, identified impediments, plan adjustment
 **Sprint Review**
 Time: 2 hours  
 Required Attendees: Product Manager, Product Owner, stakeholders, and Development Team  
+Goal: Inspect the outcome of the Sprint 0 and determine future adaptations
+
+Meeting Structure  
+a. Team presents the results of their work completed in Sprint 0 to Product Owner and stakeholders  
+b. Team and stakeholders review what was accomplished in the Sprint 0    
+c. Collaborate on what to do next  
+d. Adjust Product Backlog based on feedback  
+
+Outputs 
