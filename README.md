@@ -8,7 +8,7 @@ MEETINGS AGENDA
 Day 1  
 Time: 2 hours  
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team    
-Goal: Project Background and Purpose (what’s the background, why are we doing this)  
+Goal: Project Background and Purpose (why are we doing this)  
 
 1. Introductions (30 minutes) - Everyone introduces themselves and briefly describes a professional success      
 2. About the Project (1 hour)  
