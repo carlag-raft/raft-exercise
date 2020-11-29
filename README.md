@@ -5,8 +5,8 @@
 
 MEETINGS AGENDA
 
-Day 1 Meeting
-Time: 2 hours  
+Day 1 Meeting  
+Time: 2 hours     
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team    
 Goal: Project Background and Purpose (why are we doing this)  
 
@@ -22,7 +22,7 @@ Goal: Project Background and Purpose (why are we doing this)
      - build a shared understanding of objectives
      - highlight the product’s benefits for the company
 
-Day 2 Meeting   
+Day 2 Meeting     
 Time: 1 hour   
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
 Goal: Project Goals and Objectives
@@ -33,7 +33,7 @@ Goal: Project Goals and Objectives
 2. State what must happen for the project to be considered successful (30 minutes)  
    - Define sucess criteria   
    
-Day 3 Meeting     
+Day 3 Meeting      
 Time: 3 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: What is the project going to do   
