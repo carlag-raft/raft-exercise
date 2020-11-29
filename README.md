@@ -5,7 +5,7 @@
 
 MEETINGS AGENDA
 
-Day 1  
+Day 1 Meeting
 Time: 2 hours  
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team    
 Goal: Project Background and Purpose (why are we doing this)  
@@ -22,7 +22,7 @@ Goal: Project Background and Purpose (why are we doing this)
      - build a shared understanding of objectives
      - highlight the product’s benefits for the company
 
-Day 2    
+Day 2 Meeting   
 Time: 1 hour   
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
 Goal: Project Goals and Objectives
@@ -33,7 +33,7 @@ Goal: Project Goals and Objectives
 2. State what must happen for the project to be considered successful (30 minutes)  
    - Define sucess criteria   
    
-Day 3     
+Day 3 Meeting     
 Time: 3 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: What is the project going to do   
@@ -46,7 +46,7 @@ Goal: What is the project going to do
    - User Story Mapping 
    - Write and prioritise a few user stories  
    
-Day 4     
+Day 4 Meeting     
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Risks, Rules, Standards, Regulations, and Communications Plan Expectations
@@ -64,7 +64,7 @@ Goal: Risks, Rules, Standards, Regulations, and Communications Plan Expectations
     - Participants discuss responsibilities for communicating with those outside the team. 
     - Team drafts working agreements for how they will communicate  
 
-Day 5    
+Day 5 Meeting    
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Approach – how the team is going to work together to complete the project
@@ -77,7 +77,7 @@ Goal: Approach – how the team is going to work together to complete the projec
 2. Action Plan (1 hour)
    - Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up.
 
-Day  6     
+Day 6 Meeting     
 Time: 1 hour    
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Roles – who is doing what
