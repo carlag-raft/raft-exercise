@@ -83,11 +83,11 @@ Required Attendees: Product Manager, Product Owner, and Development Team
 Goal: Layout initially know and best-understood requirements  
 
 Meeting Structure   
-a. Add a few stories in Product Backlog
-b. Review and revise Product Backlog items    
-c. Add detail to Product Backlog items  
-d. Estimate Product Backlog items  
-e. Order items in Product Backlog    
+a. Add a few stories in Product Backlog  
+b. Review and revise Product Backlog items      
+c. Add detail to Product Backlog items    
+d. Estimate Product Backlog items    
+e. Order items in Product Backlog      
 
 Output(s)    
 Definition of Ready, Ready Product Backlog Items  
