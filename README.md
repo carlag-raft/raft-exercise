@@ -26,6 +26,7 @@ Goal: Project Goals and Objectives (what is the project going to do)
 1. Set forth the goals of the projects (10 minutes)     
 2. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period    
 3. Group reviews functional and Non-functional scope areas
+4. State what must happen for the project to be considered successful  
 
 SPRINT 0 CERMONIES  
 
