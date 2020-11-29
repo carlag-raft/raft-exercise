@@ -32,7 +32,7 @@ Goal: Project Goals and Objectives (what is the project going to do)
 3. Scope and Deliverables (30 minutes)   
    - The product owner shares high-level goals for the project over the coming period 
    - Discussion of project deliverables    
-4. Group collaborates to come up with some initial level requirements (1 hour)    
+4. Group collaborates to come up with some initial high level requirements (1 hour)    
    - Groupd discusses functional and non-functional requirements 
    - Group further discusses and reviews scope areas 
 5. State what must happen for the project to be considered successful (30 minutes)  
