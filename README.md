@@ -42,13 +42,13 @@ Goal: Project Goals and Objectives (what is the project going to do)
 Day 3      
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
-Goal: Approach – how are we going to make this happen?  
+Goal: Approach – how the team is going work together to complete the project
 
 1. Approach and Methodology (2 hours)
-   - Model how the team is going work together to complete the project  
-   - Describe the approach to executing the project  
-   - Describe the execution and project management methodology  
-   - Introduction of Approach
+   - Describe the approach to executing the project and project management methodology  
+     - Agile Values & Principles
+     - Scrum Values, Roles, & Ceremonies
+     - DevSecOps (Technical Efforts)
 
 Day 4      
 Time: 2 hours      
