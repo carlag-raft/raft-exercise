@@ -29,12 +29,14 @@ Goal: Project Goals and Objectives (what is the project going to do)
 
 1. Product Owner sets forth goals of the project (15 minutes)
 2. Group discusses project’s priorities (15 minutes)
-3. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period (30 minutes)   
+3. Scope and Deliverables (30 minutes)   
+   - The product owner shares high-level goals for the project over the coming period 
    - Discussion of project deliverables    
-4. Group colloborates to come up with high level functional and non-functional requirements (1 hour)
+4. Group collaborates to come up with some initial level requirements (1 hour)    
+   - Groupd discusses functional and non-functional requirements 
    - Group further discusses and reviews scope areas 
 5. State what must happen for the project to be considered successful (30 minutes)  
-   - Project goals and the success criteria   
+   - Define sucess criteria   
 
 Day 3      
 Time: 2 hours      
