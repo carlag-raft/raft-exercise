@@ -38,8 +38,17 @@ Goal: Project Goals and Objectives (what is the project going to do)
    - Design and Architectural Review
 5. State what must happen for the project to be considered successful (30 minutes)  
    - Define sucess criteria   
+   
+Day     
+Time: 1 hour    
+Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
+Goal: Risks and Communications Plan Expectations
 
-Day 3      
+
+
+
+
+Day 
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Approach – how the team is going to work together to complete the project
@@ -52,7 +61,7 @@ Goal: Approach – how the team is going to work together to complete the projec
 2. Action Plan
    - Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up.
 
-Day 4      
+Day     
 Time: 1 hour    
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Roles – who is doing what
@@ -61,10 +70,10 @@ Goal: Roles – who is doing what
 2. Team members each describe their core, existing capabilities (20 minutes)  
 3. Team memembers share how they may be able to contribute to project efforts (20 minutes)  
 
-Day 5      
+Day 
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
-Goal:  
+Goal: Rules, Standards, Regulations
 
 1.  
 2.  
