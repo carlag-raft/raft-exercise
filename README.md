@@ -8,7 +8,8 @@ MEETINGS AGENDA
 SPRINT 0 CERMONIES  
 
 Sprint 0 Goals:   
-- A usable piece of code  
+- Allow team to get an idea of the work ahead of them  
+- A usable piece of code    
 - A minimal environment for writing code  
 - A prioritization and list of a few user stories  
 - A plan for the most likely implementation of features  
