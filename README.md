@@ -47,20 +47,20 @@ Goal: What is the project going to do
    - Write and prioritise a few user stories  
    
 Day 4     
-Time: 1 hour      
+Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Risks, Rules, Standards, Regulations, and Communications Plan Expectations
 
-1. Risks
+1. Risks (1 hour)  
    - How issues and risks will be dealt with, and by whom
    - Summarize some of the upfront risks and issues of the project
    - Identify any additional risks
-2. Rules, Standards, Regulations
+2. Rules, Standards, Regulations (30 minutes)  
    - Review applicable standards
    - Review applicable regulations or laws
    - Review client requirements  
    - Review requirements of performing organization(s)  
-3.  Communications Plan Expectations
+3.  Communications Plan Expectations (30 minutes)  
     - Participants discuss responsibilities for communicating with those outside the team. 
     - Team drafts working agreements for how they will communicate  
 
@@ -69,12 +69,12 @@ Time: 2 hours
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Approach – how the team is going to work together to complete the project
 
-1. Approach and Methodology (2 hours)
+1. Approach and Methodology (1 hour)
    - Describe the approach to executing the project and project management methodology  
      - Agile Values & Principles
      - Scrum Values, Roles, & Ceremonies
      - DevSecOps (Technical Efforts)
-2. Action Plan
+2. Action Plan (1 hour)
    - Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up.
 
 Day  6     
