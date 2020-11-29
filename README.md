@@ -5,7 +5,13 @@
 
 MEETINGS AGENDA
 
-SPRINT CERMONIES  
+SPRINT 0 CERMONIES  
+
+Sprint 0 Goals:   
+- A usable piece of code  
+- A minimal environment for writing code  
+- A prioritization and list of a few user stories  
+- A plan for the most likely implementation of features  
 
 **Product Backlog Refinement**  
 Time: 2 hours  
@@ -13,10 +19,11 @@ Required Attendees: Product Manager, Product Owner, and Development Team
 Goal: Layout initially know and best-understood requirements  
 
 Meeting Structure   
-a. Review and revise Product Backlog items    
-b. Add detail to Product Backlog items  
-c. Estimate Product Backlog items  
-d. Order items in Product Backlog    
+a. Add a few stories in Product Backlog
+b. Review and revise Product Backlog items    
+c. Add detail to Product Backlog items  
+d. Estimate Product Backlog items  
+e. Order items in Product Backlog    
 
 Output(s)    
 Definition of Ready, Ready Product Backlog Items  
