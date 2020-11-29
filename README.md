@@ -8,7 +8,7 @@ MEETINGS AGENDA
 Day 1  
 Time: 1.5 hours  
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team    
-Goal: Provide an overview of the project  
+Goal: Provide an overview of the project, what is the project going to do  
 
 1. Introductions (30 minutes) - Everyone introduces themselves and briefly describes a professional success      
 2. Product Vision (30 minutes) - what is the background, project description, Product Owner and client describe why we are revamping a legacy system into a new web based application  
