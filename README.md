@@ -11,7 +11,11 @@ Required Attendees: Product Manager, Product Owner, Stakeholders, and Developmen
 Goal: Project Background and Purpose (what’s the background, why are we doing this)  
 
 1. Introductions (30 minutes) - Everyone introduces themselves and briefly describes a professional success      
-2. Product Vision (1 hour) - what is the background, project description, Product Owner and client describe why we are revamping a legacy system into a new web based application  
+2. About the Project (1 hour)  
+   - what is the background
+   - project description 
+   - describe a future state
+   - Product Owner and client describe why we are revamping a legacy system into a new web based application  
 3. Producing Press Release (30 minutes) - a fun way to get a shared view of the project’s purpose by touting the benefits it’ll bring  
    - The Press Release activity - Imagine the project is complete and we are writing a press release  
      - expand on the vision
@@ -19,16 +23,18 @@ Goal: Project Background and Purpose (what’s the background, why are we doing 
      - highlight the product’s benefits for the company
 
 Day 2    
-Time: 2 hours    
+Time: 2.5 hours    
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
 Goal: Project Goals and Objectives (what is the project going to do)  
 
-1. Product Owner sets forth the goals of the project, group discusses project’s priorities (15 minutes)
-2. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period (30 minutes)   
+1. Product Owner sets forth goals of the project (15 minutes)
+2. Group discusses project’s priorities (15 minutes)
+3. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period (30 minutes)   
    - Discussion of project deliverables    
-3. Group colloborates to come up with high level functional and non-functional requirements (1 hour)
+4. Group colloborates to come up with high level functional and non-functional requirements (1 hour)
    - Group further discusses and reviews scope areas 
-4. State what must happen for the project to be considered successful (15 minutes)  
+5. State what must happen for the project to be considered successful (30 minutes)  
+   - Project goals and the success criteria   
 
 Day 3      
 Time: 2 hours      
