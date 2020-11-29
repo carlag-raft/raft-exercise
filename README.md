@@ -43,9 +43,10 @@ Time: 2 hours
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Approach – how are we going to make this happen?  
 
-1.  
-2.  
-3.  
+1. Approach and Methodology
+   - Model how the team is going work together to complete the project  
+   - Describe the approach to executing the project  
+   - Describe the execution and project management methodology  
 
 Day 4      
 Time: 2 hours      
