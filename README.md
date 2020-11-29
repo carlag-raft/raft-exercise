@@ -16,7 +16,7 @@ Goal: Project Background and Purpose (what’s the background, why are we doing 
    - The Press Release activity - Imagine the project is complete and we are writing a press release  
      - expand on the vision
      - build a shared understanding of objectives
-     - highlights the product’s benefits for the company
+     - highlight the product’s benefits for the company
 
 Day 2    
 Time: 2 hours    
@@ -26,7 +26,8 @@ Goal: Project Goals and Objectives (what is the project going to do)
 1. Set forth the goals of the project, discuss project’s priorities (15 minutes)
 2. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period (30 minutes)   
    - Discussion of project deliverables    
-3. Group discusses and reviews functional and Non-functional scope areas, group colloborates to come up with high level requirements (1 hour)
+3. Group colloborates to come up with high level functional and non-functional requirements (1 hour)
+   - Group further discusses and reviews scope areas 
 4. State what must happen for the project to be considered successful (15 minutes)  
 
 Day 3      
