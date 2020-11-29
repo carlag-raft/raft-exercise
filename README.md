@@ -23,7 +23,7 @@ Goal: Project Background and Purpose (what’s the background, why are we doing 
      - highlight the product’s benefits for the company
 
 Day 2    
-Time: 2.5 hours    
+Time: 2 and 1/2 hours    
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
 Goal: Project Goals and Objectives (what is the project going to do)  
 
