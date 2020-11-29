@@ -47,6 +47,24 @@ Goal: Approach – how are we going to make this happen?
 2.  
 3.  
 
+Day 4      
+Time: 2 hours      
+Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
+Goal:  
+
+1.  
+2.  
+3.  
+
+Day 5      
+Time: 2 hours      
+Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
+Goal:  
+
+1.  
+2.  
+3.  
+
 SPRINT 0 CERMONIES  
 
 Sprint 0 Goals:   
