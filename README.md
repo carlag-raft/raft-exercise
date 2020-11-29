@@ -5,6 +5,15 @@
 
 MEETINGS AGENDA
 
+Day 1  
+Time: 2 hours  
+Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team    
+Goal: Provide an overview of the project  
+
+1. Introductions (20 minutes) - Everyone introduces themselves and briefly describes a professional success      
+2. Product Vision (10 minutes) - Product Owner briefly describes why we are revamping a legacy system into a new web based application  
+2. Scope/Deliverables ()  
+
 SPRINT 0 CERMONIES  
 
 Sprint 0 Goals:   
