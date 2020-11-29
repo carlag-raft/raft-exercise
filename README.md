@@ -23,10 +23,10 @@ Time: 2 hours
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
 Goal: Project Goals and Objectives (what is the project going to do)  
 
-1. Set forth the goals of the projects (10 minutes)     
-2. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period    
-3. Group reviews functional and Non-functional scope areas
-4. State what must happen for the project to be considered successful  
+1. Set forth the goals of the projects (30 minutes)
+2. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period (30 minutes)   
+3. Group reviews functional and Non-functional scope areas, review high level requirements (30 minutes)
+4. State what must happen for the project to be considered successful (30 minutes)  
 
 SPRINT 0 CERMONIES  
 
