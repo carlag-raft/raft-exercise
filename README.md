@@ -49,9 +49,9 @@ Goal: What is the project going to do
 Day 4     
 Time: 1 hour      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
-Goal: Risks and Communications Plan Expectations
+Goal: Risks, Rules, Standards, Regulations, and Communications Plan Expectations
 
-Day    
+Day 5    
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Approach – how the team is going to work together to complete the project
@@ -72,15 +72,6 @@ Goal: Roles – who is doing what
 1. Allow members to briefly introduce their role on the project (20 minutes)  
 2. Team members each describe their core, existing capabilities (20 minutes)  
 3. Team memembers share how they may be able to contribute to project efforts (20 minutes)  
-
-Day 
-Time: 2 hours      
-Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
-Goal: Rules, Standards, Regulations
-
-1.  
-2.  
-3.  
 
 SPRINT 0 CERMONIES  
 
