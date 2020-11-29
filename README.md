@@ -11,7 +11,7 @@ Required Attendees: Product Manager, Product Owner, Stakeholders, and Developmen
 Goal: Provide an overview of the project  
 
 1. Introductions (30 minutes) - Everyone introduces themselves and briefly describes a professional success      
-2. Product Vision (30 minutes) - Product Owner and client describe why we are revamping a legacy system into a new web based application, what is the background  
+2. Product Vision (30 minutes) - what is the background, project description, Product Owner and client describe why we are revamping a legacy system into a new web based application  
 3. Producing Press Release (30 minutes) - a fun way to get a shared view of the project’s purpose by touting the benefits it’ll bring  
    - The Press Release activity - Imagine the project is complete and we are writing a press release  
      - expand on the vision
