@@ -52,13 +52,15 @@ Required Attendees: Product Manager, Product Owner, Stakeholders, and Developmen
 Goal: Risks, Rules, Standards, Regulations, and Communications Plan Expectations
 
 1. Risks
-
+   - How issues and risks will be dealt with, and by whom
+   - Summarize some of the upfront risks and issues of the project
+   - Identify any additional risks
 2. Rules, Standards, Regulations
    - Review applicable standards
    - Review applicable regulations or laws
-   - Review client requirements
-   - Review requirements of performing organization(s)
-3. Communications Plan Expectations
+   - Review client requirements  
+   - Review requirements of performing organization(s)  
+3.  Communications Plan Expectations
    - Participants discuss responsibilities for communicating with those outside the team. 
    - Team drafts working agreements for how they will communicate  
 
