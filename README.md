@@ -23,7 +23,7 @@ Goal: Project Background and Purpose (why are we doing this)
      - highlight the product’s benefits for the company
 
 Day 2    
-Time: 2 and 1/2 hours    
+Time: 3 hours    
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
 Goal: Project Goals and Objectives (what is the project going to do)  
 
@@ -32,9 +32,10 @@ Goal: Project Goals and Objectives (what is the project going to do)
 3. Scope and Deliverables (30 minutes)   
    - The product owner shares high-level goals for the project over the coming period 
    - Discussion of project deliverables    
-4. Group collaborates to come up with some initial high level requirements (1 hour)    
+4. Group collaborates to come up with some initial high level requirements (1 and 1/2 hours)      
    - Group discusses some functional and non-functional requirements 
    - Group further discusses and reviews scope areas 
+   - Design and Architectural Review
 5. State what must happen for the project to be considered successful (30 minutes)  
    - Define sucess criteria   
 
@@ -43,10 +44,11 @@ Time: 2 hours
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Approach – how are we going to make this happen?  
 
-1. Approach and Methodology
+1. Approach and Methodology (2 hours)
    - Model how the team is going work together to complete the project  
    - Describe the approach to executing the project  
    - Describe the execution and project management methodology  
+   - Introduction of Approach
 
 Day 4      
 Time: 2 hours      
