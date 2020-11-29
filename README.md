@@ -77,4 +77,4 @@ b. Team discusses what went well during Sprint 0, what problems it encountered, 
 c. Team identifies the most helpful changes to improve its effectiveness 
 
 Output(s)  
-Improvements that will be added in next Sprint Backlog
+Improvements that will be added in next Sprint Backlog (Updated Sprint Backlog)
