@@ -23,7 +23,7 @@ Time: 2 hours
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
 Goal: Project Goals and Objectives (what is the project going to do)  
 
-1. Set forth the goals of the project, discuss project’s priorities (15 minutes)
+1. Product Owner sets forth the goals of the project, group discusses project’s priorities (15 minutes)
 2. Scope/Deliverables - The product owner shares high-level goals for the project over the coming period (30 minutes)   
    - Discussion of project deliverables    
 3. Group colloborates to come up with high level functional and non-functional requirements (1 hour)
