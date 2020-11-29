@@ -51,6 +51,17 @@ Time: 1 hour
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Risks, Rules, Standards, Regulations, and Communications Plan Expectations
 
+1. Risks
+
+2. Rules, Standards, Regulations
+   - Review applicable standards
+   - Review applicable regulations or laws
+   - Review client requirements
+   - Review requirements of performing organization(s)
+3. Communications Plan Expectations
+   - Participants discuss responsibilities for communicating with those outside the team. 
+   - Team drafts working agreements for how they will communicate  
+
 Day 5    
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
