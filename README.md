@@ -33,10 +33,10 @@ Goal: Project Goals and Objectives
 2. State what must happen for the project to be considered successful (30 minutes)  
    - Define sucess criteria   
    
-Day 3   
-Time: 3 hours    
-Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team      
-Goal: What is the project going to do 
+Day 3     
+Time: 3 hours      
+Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
+Goal: What is the project going to do   
 
 1. Group collaborates to come up with some initial high level requirements (3 hours)      
    - Group discusses some functional and non-functional requirements 
@@ -46,16 +46,12 @@ Goal: What is the project going to do
    - User Story Mapping 
    - Write and prioritise a few user stories  
    
-Day     
-Time: 1 hour    
+Day 4     
+Time: 1 hour      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Risks and Communications Plan Expectations
 
-
-
-
-
-Day 
+Day    
 Time: 2 hours      
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Approach – how the team is going to work together to complete the project
@@ -68,7 +64,7 @@ Goal: Approach – how the team is going to work together to complete the projec
 2. Action Plan
    - Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up.
 
-Day     
+Day  6     
 Time: 1 hour    
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: Roles – who is doing what
