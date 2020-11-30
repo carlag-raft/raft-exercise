@@ -38,7 +38,7 @@ Time: 3 hours
 Required Attendees: Product Manager, Product Owner, Stakeholders, and Development Team        
 Goal: What is the project going to do   
 
-1. Get an understanding of what the legacy system does ()
+1. Get an understanding of what the legacy system does  
 2. Group collaborates to come up with some initial high level requirements for the new web based app (3 hours)      
    - Group discusses some functional and non-functional requirements 
    - Group further discusses and reviews scope areas 
